@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<types>
+  <type Id ="0" Code ="None">
+  </type>
+  <type Id ="1" Code ="Client1">
+    <TimeZone>MST</TimeZone>
+    <emailaddress>notificationlist@domain.com,notificationlist2@domain.com</emailaddress>
+  </type>
+  <type Id ="2" Code ="Client2">
+    <TimeZone>MST</TimeZone>
+    <emailaddress>notificationlist@domain.com,notificationlist2@domain.com</emailaddress>
+  </type>
+  <type Id ="3" Code ="Client3">
+    <TimeZone>MST</TimeZone>
+    <emailaddress>notificationlist@domain.com,notificationlist2@domain.com</emailaddress>
+  </type>
+</types>
